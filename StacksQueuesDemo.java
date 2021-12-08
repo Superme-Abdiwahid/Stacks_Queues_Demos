@@ -1,5 +1,5 @@
 import java.util.*;
-public class StackQueDemo{
+public class StacksQueuesDemo{
    public static void main(String[] args){
       Queue<String> que = new LinkedList<>();
       que.add("Abdiwahid");
